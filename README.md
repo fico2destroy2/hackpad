@@ -25,3 +25,15 @@ the top covers the pcb and holds the display which i will connect to the pcb wit
 the knobs are for the rotary encoders they have my logo on them thats two Ms in 180 degrees of rotation between them and they are a bit taller because i like them tall
 
 <img width="596" height="718" alt="image" src="https://github.com/user-attachments/assets/692d6e2d-44ca-48f2-8146-b2bf59391f93" />
+
+Bill of Materials (BOM):
+1 unsoldered Seeed XIAO RP2040
+20x through-hole 1N4148 Diodes
+16x MX-Style switches
+2x EC11E Rotary encoders (with switch!)
+1x 0.91 inch OLED display (the pin order is GND-VCC-SCL-SDA, MAKE SURE YOUR PCB MATCHES)
+16x white blank DSA keycaps
+16x SK6812 MINI-E LEDs
+6x M3x16mm screws
+6x M3x5mx4mm heatset inserts
+1x PCB (fabricated using provided files)
