@@ -1,2 +1,5 @@
-# hackpad
-#IM MAKING A HACKPAD ITS JUST A KEYBOARD WITH A COOL NAME RIGHT NOW (10/13/2026) THERE ARE SOME PCB FILES SOON THERE WILL BE STLS FOR THE HACKPAD GUIDE IM USING FOR HEL IS THIS ONE:https://hackpad.hackclub.com/guide BY #HACKCLUB IM MAKING IT BECAOUSE OF THEM
+#Hack Pad
+#Its a keyboard with 4x4 set of keys two rotary encoders and a 128x32 oled display.
+
+<img width="571" height="597" alt="image" src="https://github.com/user-attachments/assets/83f6a574-75d2-4904-9f30-aacb168179a9" />
+
