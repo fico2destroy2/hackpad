@@ -31,7 +31,7 @@ the knobs are for the rotary encoders they have my logo on them thats two Ms in 
 
 <img width="596" height="718" alt="image" src="https://github.com/user-attachments/assets/692d6e2d-44ca-48f2-8146-b2bf59391f93" />
 
-## Bill of Materials (BOM):
+### Bill of Materials (BOM):
 
 1. 1 unsoldered Seeed XIAO RP2040
 
