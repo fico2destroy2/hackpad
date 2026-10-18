@@ -1,4 +1,4 @@
-Hack Pad
+# Hack Pad
 
 Its a keyboard with 4x4 set of keys two rotary encoders and a 128x32 oled display.
 
