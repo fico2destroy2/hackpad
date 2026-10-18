@@ -1,5 +1,7 @@
 # Hack Pad
 
+## PCB
+
 Its a keyboard with 4x4 set of keys two rotary encoders and a 128x32 oled display.
 
 <img width="571" height="597" alt="image" src="https://github.com/user-attachments/assets/83f6a574-75d2-4904-9f30-aacb168179a9" />
@@ -10,6 +12,8 @@ this project is a stardance mission i tried using only the parts provided from s
 
 notice that the switches are charlieplexed thats because the provided microcontroller has only 14 pins 11 if you exclude the ground and the power sources the display needs 2 pins
 the rotary encoders need 4  that leaves me with 5 I/Os so I charlieplexed them for a total of N × (N - 1) posible swiches witch is 20 in total we got space for 16 switches and for the 2 buttons on the rotary encoder
+
+## CAD
 
 The cad file is split into two parts top and bottom the botom is built to hold the pcb 
 
@@ -27,7 +31,7 @@ the knobs are for the rotary encoders they have my logo on them thats two Ms in 
 
 <img width="596" height="718" alt="image" src="https://github.com/user-attachments/assets/692d6e2d-44ca-48f2-8146-b2bf59391f93" />
 
-Bill of Materials (BOM):
+1. Bill of Materials (BOM):
 
 1 unsoldered Seeed XIAO RP2040
 
