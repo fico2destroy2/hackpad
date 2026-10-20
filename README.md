@@ -53,10 +53,10 @@ the knobs are for the rotary encoders they have my logo on them thats two Ms in 
 
 10. 1x PCB (fabricated using provided files)
 
-3D Prints
+### 3D Prints:
 
- 1x Case Top
+ 1. 1x Case Top
  
- 1x Case Bottom
+ 2. 1x Case Bottom
  
- 2x Knob Dials
+ 3. 2x Knob Dials
