@@ -41,7 +41,7 @@ the knobs are for the rotary encoders they have my logo on them thats two Ms in 
 
 4. 2x EC11E Rotary encoders (with switch!)
 
-5. 1x 0.91 inch OLED display (the pin order is GND-VCC-SCL-SDA, MAKE SURE YOUR PCB MATCHES)
+5. 1x 0.91 inch OLED display (the pin order is GND-VCC-SCL-SDA)
 
 6. 16x white blank DSA keycaps
 
